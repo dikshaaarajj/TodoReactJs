@@ -38,25 +38,7 @@ To run this project locally, follow these steps:
 - **CSS3:** For styling the user interface.
 - **ReactJS:** For building the dynamic and interactive UI.
 
-## Folder Structure
 
-TodoReactJS/
-│
-├── public/
-│   ├── index.html
-│   └── ...
-│
-├── src/
-│   ├── components/
-│   │   ├── TaskItem.js
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-│
-├── .gitignore
-├── package.json
-└── README.md
 
 ## Contributing
 
